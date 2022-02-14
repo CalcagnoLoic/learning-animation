@@ -1,0 +1,20 @@
+html {
+    background-color: black;
+}
+
+$box-border-color: #ffffff;
+$text-color : rgb(255, 255, 255);
+
+h1, h2, p, a {
+    color: $text-color;
+}
+
+//1er bouton
+.bouton1{
+    border: 2px solid $box-border-color;
+    text-decoration: none;
+    &:hover{
+        background-color: #ffffff;
+        color: black;
+    }
+}
