@@ -1,22 +1,26 @@
-# Apprentissage des animations
+<h1 align="center"> Learning animations </h1>
 
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<p align="center">
 
-Durant ce projet solo, le but est de comprendre comment réaliser des animations via SASS. 
+<img ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+ 
+</p>
 
-Pour cet exercice, la syntaxe SCSS a été utilisée. 
+During this solo project, the goal is to understand how to make animations via SASS. 
 
-A partir d'un bouton de base, l'accent a été mis sur : 
+For this exercise, the SCSS syntax was used. 
 
-- Le changement de couleur de celui-ci au moyen de la pseudo-classe `:hover`
+Starting with a basic button, the focus was on : 
+
+- Changing the colour of the button using the pseudo-class `:hover`.
 
 ![exercice1](assets/img/exo1.png)
 
-- Le changement de taille de celui-ci au moyen de la pseudo-classe `:hover`
+- Changing the size of it using the pseudo-class `:hover` !
 
 ![exercice2](assets/img/exo2.png)
 
-- Le changement de place de celui-ci au moyen de la pseudo-classe `:hover`
+- Changing the place of it by means of the pseudo-class `:hover` !
 
 ![exercice3](assets/img/exo3.png)
 
